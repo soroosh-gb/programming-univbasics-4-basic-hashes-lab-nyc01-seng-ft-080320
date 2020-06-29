@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  mine = {key: "value"}
+  {key: "value"}
 end
 
 def pioneer
-  bug = {:name = "Grace Hopper"}
+{:name = "Grace Hopper"}
 end
 
 
